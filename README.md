@@ -3,26 +3,26 @@
 - Telefone: (19) 99859-6335
 
 ## Resumo Profissional:
-Desenvolvedor Front-end Júnior com 6 meses de experiência em criação de interfaces responsivas e avançadas utilizando HTML5, CSS3 e JavaScript. Habilidades em React, Redux, Styled Components, Typescript e GraphQL. Experiência em controle de qualidade com ESLint e Storybook, bem como implantação de aplicativos no ambiente Azure e gerenciamento de banco de dados Cosmos DB. Certificado no curso de ReactJS (Front-end) do Ignite da plataforma Rocketseat.
+Desenvolvedor Front-end Júnior com 6 meses de experiência em criação de interfaces responsivas e avançadas utilizando HTML5, CSS3 e JavaScript. Habilidades em React, Redux, Styled Components, TypeScript e GraphQL. Experiência em controle de qualidade com ESLint e Storybook, bem como implantação de aplicativos no ambiente Azure e gerenciamento de banco de dados Cosmos DB. Certificado no curso de ReactJS (Front-end) do Ignite da plataforma Rocketseat.
 
 ## Experiência Profissional:
 ### Desenvolvedor Front-end Júnior
 - **Rockfunnels**, Valinhos, SP
-- Março de 2023 - Atualmente
+- Março de 2023 - Atualidade
 
 **Responsabilidades:**
 - Desenvolvimento de interfaces front-end responsivas utilizando HTML5, CSS3 e JavaScript.
-- Implementação de recursos avançados de front-end com React, Redux.
+- Implementação de recursos avançados de front-end com React e Redux.
 - Colaboração com a equipe de design na criação de componentes visualmente atraentes usando Styled Components.
 - Aplicação de requisições no back-end com GraphQL para geração de dados no front-end.
 - Uso de ferramentas de controle de qualidade, como ESLint e Storybook, para garantir a qualidade do código.
 - Implantação de aplicativos no ambiente Azure e gerenciamento de banco de dados Cosmos DB.
-- Desenvolvimento front-end em Typescript de novos projetos, implementação de funcionalidades e novas telas.
+- Desenvolvimento front-end em TypeScript de novos projetos, implementação de funcionalidades e novas telas.
 - Consultas SQL, criação de queries e correção de dados inconsistentes no banco Cosmos DB.
 - Correção de deploys e pipelines no Azure.
 - Suporte ao cliente desenvolvendo scripts conforme a necessidade.
 - Correções na conta de clientes, como alteração de senha, e-mail e outras informações.
-- Correções a falhas na aplicação.
+- Correções de falhas na aplicação.
 
 ### Técnico em Informática Pleno
 - **Xerografia**, Valinhos, SP
@@ -34,7 +34,7 @@ Desenvolvedor Front-end Júnior com 6 meses de experiência em criação de inte
 - Suporte técnico em todas as questões relacionadas à tecnologia da informação.
 
 ## Portfólio:
-- Meu portfólio está disponível no GitHub, onde tenho vários projetos interessantes com detalhados READMEs. Você pode acessá-lo [aqui](https://github.com/gabrielviol).
+- Meu portfólio está disponível no GitHub, onde tenho vários projetos interessantes com READMEs detalhados. Você pode acessá-lo [aqui](https://github.com/gabrielviol).
 
 ## Idiomas e Outras Habilidades:
 - Inglês intermediário.
@@ -45,7 +45,7 @@ Desenvolvedor Front-end Júnior com 6 meses de experiência em criação de inte
 ## Educação:
 - Graduação em Ciência da Computação
   - **Universidade Paulista (UNIP)**, Campinas, SP
-  - Concluído em 2021
+  - Concluída em 2021
 
 ## Certificações e Treinamentos:
 - Curso de ReactJS (Front-end) do Ignite da plataforma Rocketseat
